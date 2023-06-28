@@ -20,7 +20,6 @@
 
 from function import *
 
-
 def rules():
     print()
     print('Работа с заметками: ')
